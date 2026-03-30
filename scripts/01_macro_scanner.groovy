@@ -276,7 +276,7 @@ logger.info("Unsupported instances    : ${totalUnsupportedInstances}")
 logger.info("Distinct macro types     : ${globalCounts.size()}")
 logger.info('')
 if (totalUnsupportedInstances > 0) {
-    logger.warn(">>> ACTION NEEDED: Run script 03 (Full Space Migration) to fix")
+    logger.warn(">>> ACTION NEEDED: Run script Full Space Migration to fix")
     logger.warn("    the macros handled by MacroMigrator:")
     logger.warn("    style, div, alert, auibutton, lozenge")
     logger.warn("    For section/column/html/widget — see docs/dc-macro-reference.md")
