@@ -100,7 +100,7 @@ If you are not testing against real pages, this  script creates 7 test pages in 
 
 ## Step 5 — Run the Migration (Test Pages First)
 
-**Script:** `scripts/03_full_space_migration.groovy`
+**Script:** `scripts/04_full_space_migration.groovy`
 
 Run this twice — first as a preview, then for real.
 
