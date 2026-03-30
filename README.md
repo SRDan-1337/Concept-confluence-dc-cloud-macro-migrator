@@ -120,7 +120,7 @@ Run this twice — first as a preview, then for real.
 
 ## Step 6 — Verify It Worked
 
-**Script:** `scripts/04_verify_results.groovy`
+**Script:** `scripts/05_verify_results.groovy`
 
 This checks the test pages and tells you pass or fail for each one.
 
