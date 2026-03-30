@@ -137,7 +137,7 @@ If anything shows `FAIL`, investigate further (limitations will exist).
 
 The migration has run. Your pages now use Cloud-native macros.
 
-If you want to **remove **the 7 test pages that were created in Step 4, run `scripts/cleanup.groovy` (included in this repo) with your space key. This is optional — the test pages don't affect anything if you leave them.
+If you want to **remove **the 7 test pages that were created in Step 4, run `scripts/optional_cleanup.groovy` (included in this repo) with your space key. This is optional — the test pages don't affect anything if you leave them.
 
 ---
 
